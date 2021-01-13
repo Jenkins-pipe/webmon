@@ -1,6 +1,6 @@
 FROM php:7.0-cli
 
-LABEL maintainer="Prabhas Gupte <prabhas.gupte@gmail.com>"
+LABEL maintainer="canye <clifford.anyecgifederal.com>"
 LABEL "webmon-version"="1.3.0"
 
 COPY . /app
